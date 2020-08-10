@@ -1,3 +1,8 @@
+---
+title: "Instructions"
+date: 2020-08-10
+---
+
 On the "Code" tab, select your thaimyai-patch-1 branch.
 
 Click Create new file.
